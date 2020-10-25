@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  root 'pages#home' # default root route of our application
+  get 'about', to: 'pages#about' # our about page route
 end
