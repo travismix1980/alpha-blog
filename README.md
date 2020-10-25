@@ -1,24 +1,10 @@
-# README
+# Alpha Blog README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Its a blog I am learning Ruby on Rails With
+Below are pics of it which may get changed as I work on the app itself
 
-Things you may want to cover:
+* Root Route
+![Alpha Blog Home](Alpha%20Home.png)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* About Route
+![Alpha Blog About](Alpha%20About.png)
